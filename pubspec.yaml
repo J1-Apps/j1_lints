@@ -1,11 +1,11 @@
 name: j1_lints
 description: A set of lints for use throughout the J1 dart ecosystem.
-version: 1.0.0
-repository: https://github.com/J1-Apps/j1_lints
+version: 1.0.1
+publish_to: none
 
 environment:
   sdk: ^3.5.0
 
 dependencies:
-  flutter_lints: ^3.0.1
+  flutter_lints: ^4.0.0
   test: ^1.24.0
